@@ -1246,6 +1246,9 @@ footer .container .bottom .left img{
     cursor: pointer;
     max-width: 100%;
 }
+footer .container .bottom .left a{
+        text-decoration: none;
+}
 footer .container .bottom .right{
     flex-basis: 45%;
 }
